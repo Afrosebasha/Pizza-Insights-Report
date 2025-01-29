@@ -61,9 +61,4 @@ The database consists of four tables:
 
 ---
 
-## 🚀 How to Use  
-
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/yourusername/pizza-hut-sales-analysis.git
 
